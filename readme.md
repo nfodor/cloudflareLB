@@ -3,7 +3,7 @@
 ## Description
 
 This is a fast runner for Cloudflare Pingora.
-Cloudflare Pingora is Cloudflare Load Balancer used by Cloudflare for its service.
+Cloudflare Pingora is Cloudflare Load Balancer used by Cloudflare to provide load balancing to its customers.
 
 This can come handy to allow a bare-metal host within a DMZ to act as a load balancer instead of a service doing in the cloud. 
 
