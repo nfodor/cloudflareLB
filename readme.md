@@ -1,8 +1,16 @@
-# Project Name
+# Cloudflare load balancer (Pingora)
 
 ## Description
 
-A brief description of the project and its purpose.
+This is a fast runner for Cloudflare Pingora.
+Cloudflare Pingora is Cloudflare Load Balancer used by Cloudflare for its service.
+
+This can come handy to allow a bare-metal host within a DMZ to act as a load balancer instead of a service doing in the cloud. 
+
+One can setup a setip.io account in transparent mode, connect the host in Transparent mode and run the load balancer directly on that host. The host obtains its public IP address from setip.io and Pingora can then listen to incoming connection just as if it was connected directly to the Internet with a fixed and static IP address.
+
+
+
 
 ## Table of Contents
 
