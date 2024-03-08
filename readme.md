@@ -51,7 +51,7 @@ Contact information for getting support or reporting issues.
 
 This project uses these external libraries:
 
-- **Library Name**: [pingora](https://github.com/yourusername/pingora) (Replace with actual URL)
+- **Library Name**: [pingora](https://github.com/cloudflare/pingora) (Replace with actual URL)
   - **Version**: 0.1
   - **License**: (Replace with actual license)
   - **Usage**: (Replace with actual usage)
